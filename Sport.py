@@ -1,6 +1,6 @@
 from enum import Enum
 
-
+# Uncomment all sports you want to check for odds
 class Sport(Enum):
     FOOTBALL = 1
     TENNIS = 2
